@@ -8,3 +8,6 @@ First version of Home Intro Widget with a simple battery and localization for an
 Transparent and works in offline as well.
 
 Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
+
+Widget Workable Size: Large, Medium.
+
