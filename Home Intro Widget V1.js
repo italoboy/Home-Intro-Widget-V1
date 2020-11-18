@@ -86,8 +86,7 @@ async function createWidget() {
 	hStack.centerAlignContent()
 	
 	// Date label in stack
-    const dateString = `${formatDate('EEEE, MMM dd',today)}${nth(today.getDate())}`
-
+        const dateString = `${formatDate('EEEE, MMM dd',today)}${nth(today.getDate())}`
 	const datetext = hStack.addText(dateString);
 	datetext.font = Font.boldSystemFont(20);
 	datetext.textColor = themeColor;
