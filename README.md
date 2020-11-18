@@ -9,5 +9,5 @@ Transparent and works in offline as well.
 
 Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
 
-Widget Workable Size: Large, Medium.
+Workable widget Size: Large, Medium.
 
