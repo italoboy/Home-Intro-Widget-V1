@@ -89,7 +89,7 @@ async function createWidget() {
 	//const dateString = `${formatDate('EEEE, MMM dd',today)}${nth(today.getDate())}`
 	const dateString = formatDate('EEEE dd MMMM',today)
 	const datetext = hStack.addText(dateString);
-	datetext.font = Font.boldSystemFont(19);
+	datetext.font = Font.boldSystemFont(20);
 	datetext.textColor = themeColor;
 	datetext.textOpacity = (0.5);
 	datetext.leftAlignText();
