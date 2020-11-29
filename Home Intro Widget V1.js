@@ -1,7 +1,10 @@
-// by italoboy
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: sun;
+
+// by italoboy
+
+// Update : 1.
 
 const YOUR_NAME 	= ''
 const LOCALE 		= ''
